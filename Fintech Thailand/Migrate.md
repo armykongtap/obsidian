@@ -65,3 +65,4 @@
 - AWS devcula
 	- Kubernetes EC2 6 -> 3 save ~100$
 	- RDS nonprod micro off save ~12$
+	- delete d-vote logs 12GB
