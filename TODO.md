@@ -6,6 +6,3 @@ migrate model conductor prod
 - turn off model-condctor-prod old
 - turn on model-condctor-prod new
 - sanity test
-
-d-vote
-- after move all fintech ?, remove taint
