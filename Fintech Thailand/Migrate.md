@@ -60,3 +60,8 @@
 - finnize SBITO
 	- revenue 3,000 thb/m
 - model conductor UOB
+
+# Saving
+- AWS devcula
+	- Kubernetes EC2 6 -> 3 save ~100$
+	- RDS nonprod micro off save ~12$
