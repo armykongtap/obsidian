@@ -44,7 +44,7 @@
 	- migrate database
 	- IP - scb, sbito ?, gbs ?
 
-%% # Kerbernetes GCP
+# Kerbernetes GCP
 - ~$108–123/month - ราคาพอๆกัน ลด spec database นิดหน่อย
 - pros
 	- google own k8s
@@ -57,7 +57,7 @@
 - tasks
 	- poc GCP
 	- migrate database
-	- minor edit fluxcd %%
+	- minor edit fluxcd
 
 # Fintech AWS
 - rds fintech public data 1,760 thb/m
