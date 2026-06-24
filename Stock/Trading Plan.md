@@ -18,11 +18,12 @@ which near target
 - SHLD Sell 75.91
 - FLBR Sell TP $24.00, SL $21.70
 - NET Sell 250-260
+  
+- ETH (Etherium) Start DCA $1535
 ```
 
 ```
 - STAR5001 Buy 50.0
-- CN01 Sell 25-25.5
   
 - EIS Buy ???
 - AMD Buy ???
