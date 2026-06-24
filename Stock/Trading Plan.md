@@ -35,6 +35,7 @@ wait for decision
 - Self-driving cars
 - Nuclear Energy
 - Biotech / Longevity
+- AI Tools ex. search
 
 28 Sep - 12 Oct รอซื้อหลัง 2 แท่งแดงใหญ่
 28 Sep start DCA
