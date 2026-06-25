@@ -19,11 +19,13 @@ which near target
 - FLBR Sell TP $24.00, SL $21.70
 - NET Sell 250-260
   
+- BTC MVRV Z - Score < 0
+  BTC Spent Output Profit Ratio (SOPR) < 0.9
 - ETH (Etherium) Start DCA $1535
 ```
 
 ```
-- STAR5001 Buy 50.0
+- STAR5001 Buy 50.0 ???
   
 - EIS Buy ???
 - AMD Buy ???
@@ -37,5 +39,9 @@ wait for decision
 - Biotech / Longevity
 - AI Tools ex. search
 
-28 Sep - 12 Oct รอซื้อหลัง 2 แท่งแดงใหญ่
+28 Sep - 12 Oct รอซื้อ
+- หลัง 2 แท่งแดงใหญ่
+- BTC MVRV Z - Score < 0
+- BTC Spent Output Profit Ratio (SOPR) < 0.9
+
 28 Sep start DCA
