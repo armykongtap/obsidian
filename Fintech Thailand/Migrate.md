@@ -1,11 +1,5 @@
 # TODO
 - schedule off non prod out off working hour
-- move model-conductor uob to DO when deploy new feat
-	- move fluxcd
-	- dump and restore to new database
-	- turn off model-condctor-prod old
-	- turn on model-condctor-prod new
-	- sanity test
 
 # Gitlab devcula
 - save ~2,600 thb/m
@@ -43,6 +37,7 @@
 	- fluxcd to new format
 	- migrate database
 	- IP - scb, sbito ?, gbs ?
+	- turn off loki and logs (~100Mi)
 
 # Kerbernetes GCP
 - ~$108–123/month - ราคาพอๆกัน ลด spec database นิดหน่อย
