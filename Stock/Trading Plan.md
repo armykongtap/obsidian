@@ -18,6 +18,7 @@ which near target
 - SHLD Sell 75.91
 - FLBR Sell TP $24.00, SL $21.70
 - NET Sell 250-260
+- CN01 Sell 26.0 / Wait STAR50 Buy signal
   
 - BTC MVRV Z - Score < 0
   BTC Spent Output Profit Ratio (SOPR) < 0.9
