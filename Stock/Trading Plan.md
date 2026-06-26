@@ -22,7 +22,7 @@ which near target
   
 - BTC MVRV Z - Score < 0
   BTC Spent Output Profit Ratio (SOPR) < 0.9
-- ETH (Etherium) Start DCA $1535
+- ETH (Etherium) 48207 THB
 ```
 
 ```
