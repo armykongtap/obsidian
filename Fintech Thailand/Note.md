@@ -55,10 +55,9 @@ TODO
 
 คุณนัท
 - [ ] opta - tradingview forex
-	- [ ] เรื่องจด domain
+	- [x] เรื่องจด domain
 	- [ ] deal broker อยู่
 	- [ ] pi security ผ่าน settrade open api
-	- [ ] ปลายเดือน move gotrade to opta
 - [x] optix - options calculator
 	- [x] อยากได้เพิ่มอะไร เช่น screener
 	- [x] Unusual options activity alerts
@@ -72,7 +71,6 @@ TODO
 	- [x] rebalance
 	- [ ] https://www.figma.com/design/R7grpjNhGpEUn7ibpJvWnC/Finnize-Gotrade?node-id=1948-7749&p=f&t=XtSzqHDBHO5IAS2G-0
 - [ ] ทำ smart port - รอคุยกับ iba กับพี่เกียร์เริ่มยังไง
-
 
 พี่ต่อ
 - [ ] API ถอนเงิน - ให้ถอนเงินปกติ
@@ -90,4 +88,3 @@ TODO
 
 พี่มั่ง
 - [x] งาน tisco
-- [ ] Pentest ?
