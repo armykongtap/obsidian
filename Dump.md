@@ -1,5 +1,4 @@
 - move byd-twap to DOKS
 - remove taint finnize-non-scaleable
 - ดูประกัน
-- gcp vs do
 - finnize billing
