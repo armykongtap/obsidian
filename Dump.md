@@ -1,6 +1,3 @@
-- ปิด model / ปิด finnize
-	- แจ้งพี่ต่อ
-	- แจ้งคุณจอน
 - ฉีดวัคซีน
 - ขูดหินปูน
 
@@ -11,3 +8,4 @@
 	- K.John - 0618787936
 	- make sure no follower
 	- แจ้ง torwong@globlex.co.th
+	- POC วางไฟล์
