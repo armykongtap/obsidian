@@ -1,16 +1,14 @@
 - move byd-twap to DOKS
 - remove taint finnize-non-scaleable
 - ดูประกัน
-- tops coupon
 - karuna
 
-I think we should have 30 min meeting before you continue developing your website.
-I can guided/plan 
-I want to know 
-1. website features ex. company homepage, contact us section, etc?
-2. Tell about how you develop website.
-3. What your plan for deployment? (I recommend Cloudflare Pages. let’s discuss)
-Note that we have to migrate domain from Wordpress to Cloudflare.
+Let's set up a quick 30-minute meeting before you continue with the website development so we can align on the overall plan.
+I’d like us to discuss:
+- Required website features (homepage, contact section, etc.)
+- Your development process
+- Your deployment plan (I'd like to suggest Cloudflare Pages)
+Also, just a reminder that we still need to help P'Claire migrate her domain from WordPress to Cloudflare. Let me know what time works best for you.
 
 - ปิด model / ปิด finnize
 	- แจ้งพี่ต่อ
