@@ -1,5 +1,3 @@
-- move byd-twap to DOKS
-- remove taint finnize-non-scaleable
 - ปิด model / ปิด finnize
 	- แจ้งพี่ต่อ
 	- แจ้งคุณจอน
