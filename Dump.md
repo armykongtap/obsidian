@@ -12,3 +12,7 @@ I want to know
 2. Tell about how you develop website.
 3. What your plan for deployment? (I recommend Cloudflare Pages. let’s discuss)
 Note that we have to migrate domain from Wordpress to Cloudflare.
+
+- ปิด model / ปิด finnize
+	- แจ้งพี่ต่อ
+	- แจ้งคุณจอน
