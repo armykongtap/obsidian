@@ -1,7 +1,6 @@
 - move byd-twap to DOKS
 - remove taint finnize-non-scaleable
 - ดูประกัน
-- finnize billing
 - tops coupon
 - karuna
 
