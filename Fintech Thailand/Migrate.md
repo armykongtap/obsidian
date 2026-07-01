@@ -1,5 +1,6 @@
 # TODO
 - schedule off non prod out off working hour
+- ขอ MA gitlab devcula
 
 # Gitlab devcula
 - save ~2,600 thb/m
@@ -21,6 +22,7 @@
 	- service-byd-twap
 	- job-scb-gen signal
 		- poc kubernetes egress fix ip
+
 # List Project DOKS
 - model conductor GBS
 - opta (dev)
@@ -74,3 +76,6 @@
 	- RDS nonprod micro off save ~12$
 	- RDS d-vote small -> micro save ~12$
 	- delete d-vote logs 12GB
+- EC2 1,100 thb/m - finnize globlex k'john
+
+รวม 5,900 บาท ต่อ เดือน
