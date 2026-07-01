@@ -3,3 +3,11 @@
 	- แจ้งคุณจอน
 - ฉีดวัคซีน
 - ขูดหินปูน
+
+- finnize globlex เอารูปคุณนึกกะคุณ saint ออก 
+- ปิด model finnize
+	- Momentum pro, Price factor, Trend Factor, Rythm Pro
+	- ตาม 8 July 
+	- K.John - 0618787936
+	- make sure no follower
+	- แจ้ง torwong@globlex.co.th
