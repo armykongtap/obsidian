@@ -14,3 +14,4 @@
 - finnize เปลี่ยน ฝากถอน ผ่าน globlex
 - schedule scale RDS
 - poc byd twap
+- I want pod restart 5 pods at the same time
