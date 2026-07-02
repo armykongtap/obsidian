@@ -10,18 +10,20 @@ Brazil - HOLD / SELECTIVE BUY
 ```
 which near target
 
-- CIBR Sell $100.00 technical
 - SIL Sell TP $99, SL $82
 - GLD Sell $426.00 – $428.00 (before 5 July)
 - FLIN Buy $33.75–34.25 30,000 THB
 - UAE Buy $18.50–18.70 30,000 THB
 - SHLD Sell 75.91
-- FLBR Sell TP $24.00, SL $21.70
+- FLBR Sell TP $24.00, SL $20.90
 ```
 
 ```
+- CIBR Sell ???
+  
 - STAR5001 Buy 50.0 ???
 - CN01 Sell 26.0 / Wait STAR50 Buy signal
+  
 - BTC MVRV Z - Score < 0
   BTC Spent Output Profit Ratio (SOPR) < 0.9
 - ETH (Etherium) 48207 THB
