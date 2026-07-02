@@ -13,3 +13,4 @@
 	- เอา python ที่อ่าน excel to api
 - finnize เปลี่ยน ฝากถอน ผ่าน globlex
 - schedule scale RDS
+- poc byd twap
