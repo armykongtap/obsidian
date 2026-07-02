@@ -17,15 +17,14 @@ which near target
 - UAE Buy $18.50–18.70 30,000 THB
 - SHLD Sell 75.91
 - FLBR Sell TP $24.00, SL $21.70
-- CN01 Sell 26.0 / Wait STAR50 Buy signal
-  
-- BTC MVRV Z - Score < 0
-  BTC Spent Output Profit Ratio (SOPR) < 0.9
-- ETH (Etherium) 48207 THB
 ```
 
 ```
 - STAR5001 Buy 50.0 ???
+- CN01 Sell 26.0 / Wait STAR50 Buy signal
+- BTC MVRV Z - Score < 0
+  BTC Spent Output Profit Ratio (SOPR) < 0.9
+- ETH (Etherium) 48207 THB
   
 - EIS Buy ???
 - AMD Buy ???
