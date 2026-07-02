@@ -8,6 +8,8 @@
 	- K.John - 0618787936
 	- make sure no follower
 	- แจ้ง torwong@globlex.co.th
-	- **POC วางไฟล์**
+- **POC วางไฟล์**
+	- stack S3, web UI
+	- เอา python ที่อ่าน excel to api
 - finnize เปลี่ยน ฝากถอน ผ่าน globlex
 - schedule scale RDS
