@@ -9,3 +9,4 @@
 	- make sure no follower
 	- แจ้ง torwong@globlex.co.th
 	- **POC วางไฟล์**
+- schedule scale RDS
