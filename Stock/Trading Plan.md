@@ -49,5 +49,7 @@ wait for decision
 
 arn:aws:iam::386151557209:role/filestash-gbxfn-prod
 filestash-gbxfn-prod
+
+s3.amazonaws.com
 ap-southeast-1
 finnize-guru
