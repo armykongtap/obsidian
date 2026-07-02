@@ -17,7 +17,6 @@ which near target
 - UAE Buy $18.50–18.70 30,000 THB
 - SHLD Sell 75.91
 - FLBR Sell TP $24.00, SL $21.70
-- NET Sell 250-260
 - CN01 Sell 26.0 / Wait STAR50 Buy signal
   
 - BTC MVRV Z - Score < 0
