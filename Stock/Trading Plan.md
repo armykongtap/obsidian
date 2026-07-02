@@ -46,10 +46,3 @@ wait for decision
 - BTC Spent Output Profit Ratio (SOPR) < 0.9
 
 28 Sep start DCA
-
-arn:aws:iam::386151557209:role/filestash-gbxfn-prod
-filestash-gbxfn-prod
-
-s3.amazonaws.com
-ap-southeast-1
-finnize-guru
